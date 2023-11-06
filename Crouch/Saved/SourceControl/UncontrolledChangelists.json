@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/UnrealProject/Crouch/Content/Characters/Mannequins/Animations/Crouch/MM_Unarmed_Crouch_Idle.uasset",
+				"F:/UnrealProject/Crouch/Content/Characters/Mannequins/Animations/Crouch/MM_Unarmed_Crouch_Walk_Bwd.uasset",
+				"F:/UnrealProject/Crouch/Content/Characters/Mannequins/Animations/Crouch/MM_Unarmed_Crouch_Walk_Fwd.uasset",
+				"F:/UnrealProject/Crouch/Content/Characters/Mannequins/Animations/Crouch/MM_Unarmed_Crouch_Walk_Left.uasset",
+				"F:/UnrealProject/Crouch/Content/Characters/Mannequins/Animations/Crouch/MM_Unarmed_Crouch_Walk_Right.uasset",
+				"F:/UnrealProject/Crouch/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"F:/UnrealProject/Crouch/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"F:/UnrealProject/Crouch/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/UnrealProject/Crouch/Content/Characters/Mannequins/Animations/Crouch/BS_MM_Crouch.uasset",
+				"F:/UnrealProject/Crouch/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"F:/UnrealProject/Crouch/Content/Urbex/Animations/Clips/MM_Unarmed_Crouch_Walk_Right.uasset",
+				"F:/UnrealProject/Crouch/Content/Urbex/Animations/Clips/MM_Unarmed_Crouch_Walk_Left.uasset",
+				"F:/UnrealProject/Crouch/Content/Urbex/Animations/Clips/MM_Unarmed_Crouch_Walk_Fwd.uasset",
+				"F:/UnrealProject/Crouch/Content/Urbex/Animations/Clips/MM_Unarmed_Crouch_Walk_Bwd.uasset",
+				"F:/UnrealProject/Crouch/Content/Urbex/Animations/Clips/MM_Unarmed_Crouch_Idle.uasset",
+				"F:/UnrealProject/Crouch/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"F:/UnrealProject/Crouch/Content/Characters/Mannequins/Animations/Crouch/BS_MM_Crouch.uasset"
+			]
+		}
+	]
+}
